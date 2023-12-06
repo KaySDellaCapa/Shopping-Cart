@@ -1,0 +1,14 @@
+// Vai ser usado para carregar as configurações
+
+// Tamanho da identação
+{
+
+    // altera automaticamente entre LF e CRLF
+    "files.eol": "\n",
+
+    "editor.tabSize": 2,
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.esLint": true
+    }
+}
